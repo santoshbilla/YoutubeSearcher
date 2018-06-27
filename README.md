@@ -16,3 +16,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
+> open a browser and check the url
+http://localhost:8080/
