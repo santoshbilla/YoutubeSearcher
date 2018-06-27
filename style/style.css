@@ -40,3 +40,7 @@
 body {
     background: beige;
 }
+
+.embed-responsive {
+    border-radius: 10px;
+}
