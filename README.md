@@ -1,5 +1,5 @@
 
-This is a small react app to search youtube videos
+This is a small react app to search youtube videos. I used youtube-api-search for this.
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
