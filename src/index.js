@@ -11,7 +11,7 @@ class App extends Component {
     super(props)
     this.state = { videos: [], selectedVideo: null }
 
-    this.videoSearch('surfboards')
+    this.videoSearch('Maluma')
   }
 
   videoSearch (term) {
